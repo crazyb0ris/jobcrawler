@@ -29,3 +29,4 @@ class MozzartCrawler:
                 print("Pozicija:", title)
                 print("Link:", full_link)
                 print("----------------------")
+                print("Test commit")
