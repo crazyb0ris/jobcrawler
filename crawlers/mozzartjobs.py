@@ -30,3 +30,4 @@ class MozzartCrawler:
                 print("Link:", full_link)
                 print("----------------------")
                 print("Test commit")
+                print("Test commit2")
